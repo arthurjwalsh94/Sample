@@ -1,0 +1,9 @@
+cffi==1.17.1
+Cython==0.29.36
+madmom==0.16.1
+mido==1.3.3
+numpy==1.21.6
+packaging==24.2
+pycparser==2.22
+scipy==1.7.3
+soundfile==0.13.0

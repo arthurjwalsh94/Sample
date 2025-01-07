@@ -1,1 +1,10 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+Slicer/
 Splitter/
+
+# Python cache
+__pycache__/
+*.pyc
