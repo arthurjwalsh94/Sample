@@ -4,6 +4,7 @@
 # Python virtual environments
 Slicer/
 Splitter/
+Data/
 
 # Python cache
 __pycache__/
