@@ -5,6 +5,8 @@
 Slicer/
 Splitter/
 Data/
+Output/
+Master/
 
 # Python cache
 __pycache__/
